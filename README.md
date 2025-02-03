@@ -6,7 +6,7 @@
 📫 How to reach me:
 Email: m.adnan64672@gmail.com
 GitHub: github.com/its-adnann
-😄 Pronouns: He/Him
+😄 Pronouns: Its_LeGenD
 ⚡ Fun fact: I built a heart disease prediction app with 95% accuracy!
 
 <!---
